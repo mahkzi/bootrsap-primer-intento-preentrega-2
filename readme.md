@@ -1,2 +1,2 @@
 # Acerca del proyecto
-### -Esta fue mi primera vez con boostrap y tuve algunas complicaciones pero creo haber cumplido con el objetivo, no pude dedicarle todo mi tiempo pero una más adelante espero poder seguir aprendiendo.
+### -Esta fue mi primera vez con boostrap y tuve algunas complicaciones pero creo haber cumplido con el objetivo, no pude dedicarle todo mi tiempo pero más adelante espero poder seguir aprendiendo.
